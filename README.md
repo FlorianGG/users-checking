@@ -4,7 +4,7 @@
 
 ### Installation
 
-- Clone this repository from [Github](#https://github.com/FlorianGG/users-checking)
+- Clone this repository from [Github](https://github.com/FlorianGG/users-checking)
 - npm install
 - npm start
 - Enjoy :D
